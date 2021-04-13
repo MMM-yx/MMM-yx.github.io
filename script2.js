@@ -5,3 +5,4 @@ function sayHello(){
  else
    {alert("Noooooooooooooo!");}
 }
+sayHello(){
