@@ -6,4 +6,4 @@ function sayHello(){
    {alert("Noooooooooooooo!");}
 }
 }
-sayHello(){
+sayHello()
